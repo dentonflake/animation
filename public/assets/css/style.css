@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-optical-sizing: auto;
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    background-color: rgba(50, 50, 50, 1);
+}
+
+header {
+    padding: 15px;
+}
+
+main {
+    padding: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: rgba(249, 249, 249, 1);
+    font-weight: 300;
+    font-size: 20px;
+}
